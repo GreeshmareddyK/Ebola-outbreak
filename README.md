@@ -17,7 +17,7 @@ Steps to run  visualization in your local
 
 3.	Set the work dir to folder where all the above files are placed
 
-Setwd(“path”)
+  Setwd(“path”)
 
 4.	Open console and run the following lines to import the packages
 
